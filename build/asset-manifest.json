@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eeae889f.chunk.css",
+    "main.js": "/static/js/main.10bc7de1.chunk.js",
+    "main.js.map": "/static/js/main.10bc7de1.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.68111f9a.chunk.js": "/static/js/2.68111f9a.chunk.js",
+    "static/js/2.68111f9a.chunk.js.map": "/static/js/2.68111f9a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1e671b5d6e06f3e2553e3425bc724296.js": "/precache-manifest.1e671b5d6e06f3e2553e3425bc724296.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.eeae889f.chunk.css.map": "/static/css/main.eeae889f.chunk.css.map",
+    "static/media/client.png": "/static/media/client.18a36fc9.png",
+    "static/media/cross-seticap.png": "/static/media/cross-seticap.b558796c.png",
+    "static/media/curvas.png": "/static/media/curvas.a178f2bf.png",
+    "static/media/dolar-set-fx-nobg.png": "/static/media/dolar-set-fx-nobg.c2add251.png",
+    "static/media/la-republica.png": "/static/media/la-republica.4f076688.png",
+    "static/media/logo-nuevo-bvc-w.png": "/static/media/logo-nuevo-bvc-w.afa4e0a1.png",
+    "static/media/logo-seticap-sinbg.png": "/static/media/logo-seticap-sinbg.7f1890bc.png",
+    "static/media/logo-tp-icap.png": "/static/media/logo-tp-icap.2c9a7582.png",
+    "static/media/powered_01.png": "/static/media/powered_01.1b51b702.png",
+    "static/media/rewind-time.png": "/static/media/rewind-time.fd19cc2a.png",
+    "static/media/transaction.png": "/static/media/transaction.8fc464ab.png",
+    "static/media/vigilado-sfc.png": "/static/media/vigilado-sfc.b558a489.png"
+  }
+}

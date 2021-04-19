@@ -1,0 +1,39 @@
+.centrado{
+	text-align: center !important;
+}
+
+.izquierda{
+	text-align: left !important;
+}
+
+.derecha{
+	text-align: right !important;
+}
+
+.fecha{
+	font-size: 14px;
+}
+
+.referencia{
+	font-size: 16px;
+}
+
+.tamCard{
+	max-width: 540px;
+}
+
+.noBorder{
+	border: 0px !important;
+}
+
+.textCard{
+	font-size: 16px;
+}
+
+.imgCredit{
+	width: 50% !important;
+}
+
+.boton{
+	margin-top: 1%;
+}
